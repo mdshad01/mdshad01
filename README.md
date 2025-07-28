@@ -119,8 +119,8 @@ I'm a passionate MERN stack developer specializing in building modern web applic
   
   ### Show some ❤️ by starring some of the repositories!
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen&style=flat-square)
-  [![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)](https://github.com/YourUsername)
+  ![Profile Views](https://komarev.com/ghpvc/?username=mdshad01&color=brightgreen&style=flat-square)
+  [![GitHub followers](https://img.shields.io/github/followers/mdshad01?label=Follow&style=social)](https://github.com/mdshad01)
   
 </div>
 
